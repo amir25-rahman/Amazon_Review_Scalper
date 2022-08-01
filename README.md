@@ -8,5 +8,5 @@ This should be seen from the perspective of ther seller/distrubutor.
 Analysis:
 Review the body paragraphs and many other parameters showen in the file. 
 
-run "Amazon_Review_Scalper/AMZN/AMZN/spiders/amzn_scalp.py" for the scalping
+run "Amazon_Review_Scalper/AMZN/AMZN/spiders/amzn_scalp.py" for the scalping </br>
 run "Amazon_Review_Scalper/AMZN/AMZN/spiders/amzn_analysis.ipynb" for the analysis/findings   
